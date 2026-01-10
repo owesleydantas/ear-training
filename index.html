@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/ear-training/assets/favicon-fX6ldcV2.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ear-training</title>
+    <script type="module" crossorigin src="/ear-training/assets/index-BdbZ6I31.js"></script>
+    <link rel="stylesheet" crossorigin href="/ear-training/assets/index-Hk9pNjqP.css">
+  </head>
+  <body>
+    <main class="app">
+        <h1>Treinador Auditivo - Tríades</h1>
+
+        <section class="controls">
+            <label>
+                <input type="checkbox" id="vary-root">
+                Variar fundamental
+            </label>
+    
+            <button id="play-chord">
+                Ouvir acorde
+            </button>
+            <button id="repeat-chord">
+                Ouvir novamente
+            </button>
+        </section>
+
+        <section id="answer" class="answers">
+            <button data-answer="major"> Maior </button>
+            <button data-answer="minor"> menor </button>
+            <button data-answer="augmented"> Aumentado </button>
+            <button data-answer="diminished"> Diminuto </button>
+        </section>
+        
+        <p id="feedback" class="feedback"></p>
+
+        <div id="score" class="score">
+            <span>Acertos: <strong id="hits">0</strong></span>
+            <span>Erros: <strong id="misses">0</strong></span>
+        </div>
+    </main>
+
+  </body>
+</html>
