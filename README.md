@@ -67,5 +67,5 @@ http://localhost:5173
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT.
-Veja o arquivo LICENSE
+Veja o arquivo [LICENSE](https://github.com/owesleydantas/ear-training?tab=MIT-1-ov-file#)
  para mais detalhes.
