@@ -1,4 +1,4 @@
-# Treinador Auditivo – Tríades
+# [Treinador Auditivo – Tríades](https://owesleydantas.github.io/ear-training/)
 
 Aplicação web para treinamento auditivo harmônico, focada no reconhecimento de **tríades**  
 (Maior, Menor, Aumentada e Diminuta).
