@@ -18,6 +18,19 @@ https://keepachangelog.com/
 
 ---
 
+## [1.0.1] - 2026-01-11
+
+### Added
+- Footer na UI com link para meu GitHub
+
+### Changed
+- 
+
+### Fixed
+- 
+
+---
+
 ## [1.0.0] – 2026-01-09
 
 ### Added
